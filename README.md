@@ -11,3 +11,7 @@ User must run npm i in command terminal
 ## Usage
 
 node index.js
+
+## Video
+
+[video](https://watch.screencastify.com/v/r7eSyLe6nsQD952wSp5Q)
