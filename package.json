@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "professional-readme-generator",
+  "description": "ReadMe Generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scottl5/Professional-README-Generator.git"
+  },
+  "author": "Scott LaBelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scottl5/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Scottl5/Professional-README-Generator#readme"
+}
